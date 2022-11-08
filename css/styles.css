@@ -602,6 +602,11 @@ img {
     background-color: var(--background-color-second);
 }
 
+.footer-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
 .footer-adress-list {
     margin-right: 70px;
 }
