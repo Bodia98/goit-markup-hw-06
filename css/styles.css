@@ -878,6 +878,10 @@ img {
 
 .input-wrap {
     position: relative;
+    margin-bottom: 10px;
+}
+
+.textarea-wrap {
     margin-bottom: 20px;
 }
 
